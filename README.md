@@ -1,6 +1,8 @@
 # Customer-Churn-Prediction
 
-
+<p align="center">
+  <img src="https://github.com/OssFad/Customer-Churn-Prediction/blob/main/Customer%20Churn%20image.png" alt="Logo" width="600">
+</p>
 
 Customer churn, also known as **customer attrition**, refers to the rate at which customers stop doing business with a company over a given period. It is a key metric for businesses, especially in subscription-based models, telecommunications, banking, e-commerce, and SaaS (Software as a Service) industries.  
 
